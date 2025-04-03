@@ -7,7 +7,7 @@
 
 ## Autores
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@Jhon henry rodas ](https://www.github.com/jhonRodas)
 
 ## Descripción del Proyecto
 
